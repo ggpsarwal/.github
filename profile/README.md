@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  Welcome to Gyan Ganga Public School
+  Welcome to Gyan Ganga Public School!
 </h1>
 
 <br>
