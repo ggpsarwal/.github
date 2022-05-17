@@ -1,12 +1,20 @@
-# Gyan Ganga Public School
+<div align="center">
+  <a href="https://ggpsarwal.github.io/ggpsarwal"><img src="./Logo_Green.png" alt="Gyan Ganga Public School" width="100"></a>
+</div>
 
-<!--
+<h1 align="center">
+  Welcome to Gyan Ganga Public School
+</h1>
 
-**Here are some ideas to get you started:**
+<br>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<p align="center">
+  <b>Bhadasi, Arwal, Bihar, India - 804401</b> 👇
+</p>
+
+
+<br/><br/>
+# Thank you for being here! ✨<br>
+You can see this project live [here](https://ggpsarwal.github.io/ggpsarwal) (Supports Desktop Only)
+<br>
+<br>
