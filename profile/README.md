@@ -6,7 +6,7 @@
   Welcome to Gyan Ganga Public School!
 </h1>
 <p align="center">
-  <b>Bhadasi, Arwal, Bihar, India - 804401</b> 👇
+  <b>Bhadasi, Arwal, Bihar, India - 804401</b>
 </p>
 
 
