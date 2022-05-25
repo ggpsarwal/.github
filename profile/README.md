@@ -8,10 +8,3 @@
 <p align="center">
   <b>Bhadasi, Arwal, Bihar, India - 804401</b>
 </p>
-
-
-<br/><br/>
-# Thank you for being here! ✨<br>
-You can see this project live [here](https://ggpsarwal.github.io/ggpsarwal) (Supports Desktop Only)
-<br>
-<br>
